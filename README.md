@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @MarcelloRL
 - 👀 I’m interested in learning new skills
 - 🌱 I’m currently learning the basics lol
-- 📫 How to reach me: Email
+- 📫 How to reach me: marcellorossilermen@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Too addicted for my own good
+- ⚡ Fun fact: I'm too addicted for my own good
 
 <!---
 MarcelloRL/MarcelloRL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
